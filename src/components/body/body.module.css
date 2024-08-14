@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner:wght@400..700&family=Inter:wght@100..900&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Sedan:ital@0;1&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Sedan";
+}
+
+body{
+    background-color: rgb(245, 179, 22);
+}
+
+div img{
+    width: 100px;
+    height: 100px;
+}
+
+div div h1{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+div div div h2{
+    display: flex;
+    justify-content: center;
+}
